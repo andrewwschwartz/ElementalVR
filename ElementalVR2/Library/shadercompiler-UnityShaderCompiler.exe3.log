@@ -1,0 +1,67 @@
+Base path: D:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at TexturePadding.compute(1): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=1470 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=654 outsize=573 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=16784 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=16784 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=5233 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=7009 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=7789 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=7261 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=8077 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=8277 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=11449 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler

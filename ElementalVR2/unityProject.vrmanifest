@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.elementalvr2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\mrlab\\ElementalVR2\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "ElementalVR2 [Testing]"
+        }
+      }
+    }
+  ]
+}

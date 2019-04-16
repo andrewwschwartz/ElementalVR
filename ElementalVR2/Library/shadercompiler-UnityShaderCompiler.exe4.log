@@ -1,0 +1,21 @@
+Base path: D:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ShadowBlurMoments.compute(80): failed to open source file: 'CoreRP/ShaderLibrary/Common.hlsl'
+  api=4 insize=16784 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=1470 outsize=577 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=4729 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=6625 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=6805 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=9977 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=16784 outsize=10925 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
