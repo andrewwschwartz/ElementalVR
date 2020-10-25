@@ -1,5 +1,5 @@
 # ElementalVR
-This wasthe first Unity application and VR application that I ever made in a sense. Very janky so don't be impressed. 
+This was the first Unity application and VR application that I ever made in a sense. Very janky so don't be impressed. 
 
 Here's a description of the app:
 
